@@ -22,3 +22,9 @@ The learning curves show the TD-error and instantaneous cost during the learning
   <img src="assets/u=4(error).png" width="500" />
   <img src="assets/u=4(cost).png" width="500" /> 
 </p>
+
+The policy and value function learnt are vizualized to give a better of the learning process.
+<p float="left">
+  <img src="assets/u=4(policy).png" width="500" />
+  <img src="assets/u=4(value).png" width="500" /> 
+</p>
