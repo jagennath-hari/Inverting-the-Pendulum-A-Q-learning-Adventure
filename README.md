@@ -14,6 +14,6 @@ The Q-learning algorithm is implemented with a table, the dimension of the Q-tab
 The results in the form of graphs are visualized below.
 
 <p float="left">
-  <img src="assets/u=4(state).png" width="100" />
-  <img src="assets/u=4(control).png" width="100" /> 
+  <img src="assets/u=4(state).png" width="500" />
+  <img src="assets/u=4(control).png" width="500" /> 
 </p>
