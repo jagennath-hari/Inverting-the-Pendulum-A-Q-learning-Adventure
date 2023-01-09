@@ -10,6 +10,9 @@ The Q-learning algorithm is implemented with a table, the dimension of the Q-tab
 <p align = 'center'><img src ='assets/Q-table.png' width="550" height="300" ></p>   
 <p align = 'center'><em>Q-table</em></p> 
 
+## Algorithm
+
+
 ## Results
 The results in the form of graphs are visualized below.
 <p float="left">
