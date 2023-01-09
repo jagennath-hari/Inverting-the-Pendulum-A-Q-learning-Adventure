@@ -15,4 +15,4 @@ The results in the form of graphs are visualized below.
 
 Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
-![](assets/Q-table.png)  |  ![](assets/Q-table.png)
+![](assets/u=4(state).png)  |  ![](assetsu=4(control).png)
