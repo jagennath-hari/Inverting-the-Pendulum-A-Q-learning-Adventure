@@ -12,3 +12,7 @@ The Q-learning algorithm is implemented with a table, the dimension of the Q-tab
 
 ## Results
 The results in the form of graphs are visualized below.
+
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](assets/Q-table.png)  |  ![](assets/Q-table.png)
