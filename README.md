@@ -15,19 +15,19 @@ The Q-learning algorithm is implemented with a table, the dimension of the Q-tab
 
 ## Results
 The results in the form of graphs are visualized below.
-<p float="left">
+<p float="center">
   <img src="assets/u=4(state).png" width="400" />
   <img src="assets/u=4(control).png" width="400" /> 
 </p>
 
 The learning curves show the TD-error and instantaneous cost during the learning process.
-<p float="left">
+<p float="center">
   <img src="assets/u=4(error).png" width="400" />
   <img src="assets/u=4(cost).png" width="400" /> 
 </p>
 
 The policy and value function learnt are vizualized to give a better of the learning process.
-<p float="left">
+<p float="center">
   <img src="assets/u=4(policy).png" width="400" />
   <img src="assets/u=4(value).png" width="400" /> 
 </p>
