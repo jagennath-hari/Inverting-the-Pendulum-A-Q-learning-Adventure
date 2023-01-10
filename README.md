@@ -33,4 +33,4 @@ The policy and value function learnt are vizualized to give a better of the lear
 </p>
 
 ## Report
-To read a detailed report, click [HERE](https://pages.github.com/)
+To read a detailed report, click [HERE](assets/Report.pdf)
