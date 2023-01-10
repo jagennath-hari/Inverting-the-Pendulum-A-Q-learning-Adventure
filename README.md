@@ -31,3 +31,6 @@ The policy and value function learnt are vizualized to give a better of the lear
   <img src="assets/u=4(policy).png" width="400" height="350" />
   <img src="assets/u=4(value).png" width="400" height="350" /> 
 </p>
+
+## Report
+To read a detailed report, click [HERE](https://pages.github.com/)
