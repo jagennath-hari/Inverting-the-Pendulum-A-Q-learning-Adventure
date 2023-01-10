@@ -5,7 +5,6 @@ Developed model-free controller using Q-learning to solve the inverted pendulum 
   <img src="assets/inverted_pendulum.gif" width="400" height="350" />
   <img src="assets/inverted_pendulum2.gif" width="400" height="350" />
 </p> 
-<p align = 'center'><em>Simulation of Simple Pendulum</em></p> 
 
 ## Q-table
 
