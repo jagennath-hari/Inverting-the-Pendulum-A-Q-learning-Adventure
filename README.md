@@ -18,8 +18,6 @@ The results in the form of graphs are visualized below.
 <p float="center">
   <img src="assets/u=4(state).png" width="400" height="350" />
   <img src="assets/u=4(control).png" width="400" height="350" />
-  <em>State for 10 secs</em>
-  <em>Control for 10 secs</em>
 </p>
 
 The learning curves show the TD-error and instantaneous cost during the learning process.
